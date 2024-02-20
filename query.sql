@@ -1,0 +1,13 @@
+--
+-- Docs
+-- https://www.w3schools.com/sql/default.asp
+-- https://sqlzoo.net/wiki/SQL_Tutorial
+-- Playground:
+-- https://sqlfiddle.com/sqlite/online-compiler
+-- https://sqlite.org/fiddle/
+--
+
+-- Izveidot tabulu
+-- Izveidot 10 pokemonu ierakstus
+-- Atlasīt visus pokemonus un visas kolonnas
+-- Atlasīt visu pokemonu nosaukums un , kuriem ir "Fire" tips
