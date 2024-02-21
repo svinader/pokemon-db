@@ -10,4 +10,9 @@
 -- Izveidot tabulu
 -- Izveidot 10 pokemonu ierakstus
 -- Atlasīt visus pokemonus un visas kolonnas
--- Atlasīt visu pokemonu nosaukums un , kuriem ir "Fire" tips
+-- Atlasīt visu pokemonu nosaukums un tos kuriem ir "Fire" tips
+-- Atlasīt pokemonus ar kopējām statistikām (total) virs 500
+-- Atlasīt pokemonus ar "Flying" tipu un statistikam virs 500
+-- Sakārtot pokemonus pēc augstāka HP
+-- Atlasīt unikālās vērtības no type_1 stabiņa (DISTINCT):
+
