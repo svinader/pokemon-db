@@ -13,6 +13,8 @@
 -- Atlasīt visu pokemonu nosaukums un tos kuriem ir "Fire" tips
 -- Atlasīt pokemonus ar kopējām statistikām (total) virs 500
 -- Atlasīt pokemonus ar "Flying" tipu un statistikam virs 500
--- Sakārtot pokemonus pēc augstāka HP
--- Atlasīt unikālās vērtības no type_1 stabiņa (DISTINCT):
+-- Atlasīt unikālās vērtības no type_1 stabiņa (DISTINCT)
 
+-- Sakārtot pokemonus pēc augstāka HP
+
+-- Izdzēst tos, kam attack mazāks par 50
