@@ -7,14 +7,14 @@
 -- https://sqlite.org/fiddle/
 --
 
--- Izveidot tabulu
--- Izveidot 10 pokemonu ierakstus
--- Atlasīt visus pokemonus un visas kolonnas
--- Atlasīt visu pokemonu nosaukums un tos kuriem ir "Fire" tips
--- Atlasīt pokemonus ar kopējām statistikām (total) virs 500
--- Atlasīt pokemonus ar "Flying" tipu un statistikam virs 500
+-- Izveidot tabulu (CREATE)
+-- Izveidot 10 pokemonu ierakstus (INSERT)
+-- Atlasīt visus pokemonus un visas kolonnas (SELECT)
+-- Atlasīt pokemonu nosaukums tiem kuriem ir "Fire" tips (SELECT, WHERE)
+-- Atlasīt pokemonus ar kopējām statistikām (total) virs 500 (SELECT, WHERE)
+-- Atlasīt pokemonus ar "Flying" tipu un statistikam virs 500 (SELECT, WHERE)
 -- Atlasīt unikālās vērtības no type_1 stabiņa (DISTINCT)
 
--- Sakārtot pokemonus pēc augstāka HP
+-- Sakārtot pokemonus pēc augstāka HP (ORDER BY)
 
--- Izdzēst tos, kam attack mazāks par 50
+-- Izdzēst tos, kam attack mazāks par 50 (DELETE, WHERE)
